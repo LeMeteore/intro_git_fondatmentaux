@@ -1,2 +1,3 @@
 # intro_git_fondatmentaux
-description de mon dépôt
+
+Ceci est une description bateau juste pour l'exemple.
